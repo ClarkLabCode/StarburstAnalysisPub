@@ -1,5 +1,5 @@
 % Generate Figure 2A
-addpath(genpath('src'))
+addpath(genpath('../src'))
 % define hill function
 hillFunc=@(c,n,kd) (c.^n)./(kd.^n+c.^n);
 

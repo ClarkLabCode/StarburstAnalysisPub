@@ -1,6 +1,6 @@
-% function dOut=dInput
+
 % close all
-addpath(genpath('src'))
+addpath(genpath('../src'))
 clear 
 clc
 tic

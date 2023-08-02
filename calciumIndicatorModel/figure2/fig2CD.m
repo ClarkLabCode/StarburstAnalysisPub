@@ -1,5 +1,5 @@
 close all
-addpath(genpath('src'))
+addpath(genpath('../src'))
 save=0;
 saveDir='test';
 tag='test';
