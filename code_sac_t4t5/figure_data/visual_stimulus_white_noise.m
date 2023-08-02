@@ -1,0 +1,2 @@
+function visual_stimulus_white_noise()
+end
